@@ -23,7 +23,7 @@ Crea la base de datos con información de demostración.
 ![image](https://user-images.githubusercontent.com/44543081/69917135-12537a80-1463-11ea-9945-9a6e2bc83639.png)  
 ![image](https://user-images.githubusercontent.com/44543081/69917151-3020df80-1463-11ea-8724-f9a3822bec56.png)  
 **En este punto escribí mal mi correo, por lo que lo corrigo en el siguiente paso desde la configuración.**  
-Si fuera necesario, realiza otras configuraciones de servicios, red y base de datos.
+Si fuera necesario, realiza otras configuraciones de servicios, red y base de datos.  
 **En mi caso funcionó todo perfectamente a la primera**  
 SEGUNDA PARTE (PRUEBA)
 
